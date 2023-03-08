@@ -1,0 +1,20 @@
+[
+    {
+        "modid": "minervic",
+        "name": "MinervIC",
+        "description": "みねるびっく！",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "Kaiz_JP"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [
+            "RTM"
+        ]
+    }
+]
